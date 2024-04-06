@@ -4,9 +4,9 @@ My name is Nguyễn Song Hào. I am interested in the following topics: Data Sci
 - 🔭 I'm also a member of [Human Speech Text Processing Lab (HuSTEP)](https://github.com/HuSTeP-Human-Speech-Text-Processing-Lab).
 
 ## How to reach me 📫
-Gmail: wednesdayhao@gmail.com  
-Linkedin: [Song Hào Nguyễn](https://www.linkedin.com/in/song-h%C3%A0o-nguy%E1%BB%85n-462b4a229/)  
-Facebook: [Hào SN](https://www.facebook.com/profile.php?id=100014357438069)
+- Gmail: wednesdayhao@gmail.com  
+- Linkedin: [Song Hào Nguyễn](https://www.linkedin.com/in/song-h%C3%A0o-nguy%E1%BB%85n-462b4a229/)  
+- Facebook: [Hào SN](https://www.facebook.com/profile.php?id=100014357438069)
 
 <!--
 **shao2011/shao2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
