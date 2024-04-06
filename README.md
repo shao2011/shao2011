@@ -1,4 +1,4 @@
-### Hi there 👋
+### WELCOME TO MY GITHUB 👋
 
 <!--
 **shao2011/shao2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
