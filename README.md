@@ -1,12 +1,18 @@
 ### WELCOME TO MY GITHUB 👋
 My name is Nguyễn Song Hào. I am interested in the following topics: Data Science, Machine Learning, Deep Learning, Natural Language Processing.
-- 👨‍🎓 I'm currently a third-year student majoring in Data Science and AI at [Hanoi University of Science and Technology (HUST)](https://hust.edu.vn/).  
+- 👨‍🎓 I'm currently a third-year student majoring in Data Science and Artificial Intelligence at [Hanoi University of Science and Technology (HUST)](https://hust.edu.vn/).  
 - 🔭 I'm also a member of [Human Speech Text Processing Lab (HuSTEP)](https://github.com/HuSTeP-Human-Speech-Text-Processing-Lab).
 
 ## How to reach me 📫
 - Gmail: wednesdayhao@gmail.com 
 - Linkedin: [Song Hào Nguyễn](https://www.linkedin.com/in/song-h%C3%A0o-nguy%E1%BB%85n-462b4a229/)
 - Facebook: [Hào SN](https://www.facebook.com/profile.php?id=100014357438069)
+
+## Languages and tools
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <!--
 **shao2011/shao2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
