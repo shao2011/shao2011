@@ -1,7 +1,8 @@
 ### WELCOME TO MY GITHUB 👋
 My name is Nguyễn Song Hào. I am interested in the following topics: Data Science, Machine Learning, Deep Learning, Natural Language Processing.  
-👨‍🎓 I'm currently a third-year student majoring in Data Science and AI at [Hanoi University of Science and Technology (HUST)](https://hust.edu.vn/).  
-🔭 I'm also a member of (Human Speech Text Processing Lab [HuSTEP](https://github.com/HuSTeP-Human-Speech-Text-Processing-Lab).  
+
+-👨‍🎓 I'm currently a third-year student majoring in Data Science and AI at [Hanoi University of Science and Technology (HUST)](https://hust.edu.vn/).  
+-🔭 I'm also a member of (Human Speech Text Processing Lab [HuSTEP](https://github.com/HuSTeP-Human-Speech-Text-Processing-Lab).  
 ## 📫How to reach me:
 - a
 - b
