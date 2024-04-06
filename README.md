@@ -1,4 +1,4 @@
-### WELCOME TO MY GITHUB 👋
+### WELCOME TO MY GITHUB 👋👋👋
 My name is Nguyễn Song Hào. I am interested in the following topics: Data Science, Machine Learning, Deep Learning, Natural Language Processing.  
 
 - 👨‍🎓 I'm currently a third-year student majoring in Data Science and Artificial Intelligence at [Hanoi University of Science and Technology (HUST)](https://hust.edu.vn/).
