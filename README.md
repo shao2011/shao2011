@@ -1,5 +1,5 @@
 ### WELCOME TO MY GITHUB 👋
-
+My name is Nguyễn Song Hào. I am currently a third-year student majoring in Data Science and AI at (Hanoi University of Science and Technology (HUST))[https://hust.edu.vn/]. I am also a member of (Human Speech Text Processing Lab (HuSTEP)[https://github.com/HuSTeP-Human-Speech-Text-Processing-Lab]
 <!--
 **shao2011/shao2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
