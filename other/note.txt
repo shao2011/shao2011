@@ -1,0 +1,6 @@
+Tạo file readme.md trên profile github: 
+- tool: 
+  https://rahuldkjain.github.io/gh-profile-readme-generator/
+  https://profile-readme-generator.com/
+- video hướng dẫn:
+  https://www.youtube.com/watch?v=rCt9DatF63I
