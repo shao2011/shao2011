@@ -5,8 +5,8 @@ My name is Nguyễn Song Hào. I am interested in the following topics: Data Sci
 
 ## How to reach me 📫
 - Gmail: wednesdayhao@gmail.com  
-- Linkedin: [Song Hào Nguyễn](https://www.linkedin.com/in/song-h%C3%A0o-nguy%E1%BB%85n-462b4a229/)  
-- Facebook: [Hào SN](https://www.facebook.com/profile.php?id=100014357438069)
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Song Hào Nguyễn](https://www.linkedin.com/in/song-h%C3%A0o-nguy%E1%BB%85n-462b4a229/)
+- 
 
 <!--
 **shao2011/shao2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
